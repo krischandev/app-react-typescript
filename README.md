@@ -1,8 +1,15 @@
-FRONTEND
+# ReactJS + Laravel + Redux ToolKit + TypeScript + MySQL CRUD Sample
 
-1 - Create APP
-npx create-react-app app-react-typescript --template typescript
-npm install sweetalert2
+## Available Scripts
 
-cd app-react-typescript
-npm start
+In the project directory, you can run:
+
+## 1. Create App
+### `npx create-react-app app-react-typescript --template typescript`
+### `npm install sweetalert2`
+### `cd app-react-typescript`
+### `npm start`
+
+## 2. Tailwind CSS
+### `npm install -D tailwindcss`
+### `npx tailwindcss init`
